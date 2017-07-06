@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cf87c15-738b-4a09-ac9f-770f51ea8533" name="Default" comment="" />
+    <list default="true" id="0cf87c15-738b-4a09-ac9f-770f51ea8533" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +29,8 @@
       <file leaf-file-name="LikeButton.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LikeButton.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="261">
+              <caret line="14" column="88" lean-forward="true" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -575,12 +577,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499320821461</updated>
-      <workItem from="1499320822901" duration="11055000" />
+      <workItem from="1499320822901" duration="11179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11055000" />
+    <option name="totallyTimeSpent" value="11179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="-48" width="1382" height="784" extended-state="6" />
@@ -664,8 +666,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LikeButton.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="261">
+          <caret line="14" column="88" lean-forward="true" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
